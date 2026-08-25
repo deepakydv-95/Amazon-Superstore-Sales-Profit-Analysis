@@ -90,7 +90,7 @@ The dashboard transforms raw sales data into meaningful **KPIs, visualizations, 
 * City-level profitability analysis
 * Interactive dashboard navigation
 
--
+
 🧮 Key KPIs
 | KPI            | Description                     |
 | -------------- | ------------------------------- |
@@ -116,7 +116,7 @@ Skills Demonstrated:-
    Data Visualization
    Data Storytelling.
 
-Conclusion
+Conclusion :- 
 This project demonstrates how **Power BI can be used to transform raw Superstore data into an interactive business intelligence dashboard**. By analyzing sales, profit, quantity, returns, customers, products, categories, sub-categories, and cities, the dashboard provides a clear view of business performance and helps identify areas contributing to profitability.
 
 
