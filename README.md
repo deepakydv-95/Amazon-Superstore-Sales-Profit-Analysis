@@ -1,13 +1,12 @@
 🛒 Amazon Superstore Sales & Profit Analysis | Power BI
 
-📌 Project Overview
-   This project presents an interactive **Amazon Superstore Sales & Profit Analysis Dashboard developed using Power BI**. The objective of the project was to analyze sales performance, profitability, product performance, customer segments, returns, and geographical profitability using the Superstore dataset.
+📌 Project Overview                                                       This project presents an interactive **Amazon Superstore Sales & Profit Analysis Dashboard developed using Power BI**. The objective of the project was to analyze sales performance, profitability, product performance, customer segments, returns, and geographical profitability using the Superstore dataset.
 
 The dashboard transforms raw sales data into meaningful **KPIs, visualizations, and business insights**, allowing users to quickly understand overall performance and identify profitable customers, products, categories, sub-categories, and cities.
 
 
 🎯 Project Objectives
-  The main objectives of this project were to:
+                                     The main objectives of this project were to:
 
   * Analyze **Total Sales** and overall revenue performance.
   * Analyze **Total Profit** to understand business profitability.
@@ -25,7 +24,7 @@ The dashboard transforms raw sales data into meaningful **KPIs, visualizations, 
 📊 Dashboard Analysis
 
    💰 Total Sales:-
-        Analyzed the total sales generated across the business to understand overall revenue performance.
+           Analyzed the total sales generated across the business to understand overall revenue performance.
 
    💵 Total Profit:-
        Analyzed total profit to evaluate the financial performance and overall profitability of the business.
