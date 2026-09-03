@@ -1,12 +1,13 @@
 🛒 Amazon Superstore Sales & Profit Analysis | Power BI
 
-📌 Project Overview                                                       This project presents an interactive **Amazon Superstore Sales & Profit Analysis Dashboard developed using Power BI**. The objective of the project was to analyze sales performance, profitability, product performance, customer segments, returns, and geographical profitability using the Superstore dataset.
+📌 Project Overview                                                       
+This project presents an interactive **Amazon Superstore Sales & Profit Analysis Dashboard developed using Power BI**. The objective of the project was to analyze sales performance, profitability, product performance, customer segments, returns, and geographical profitability using the Superstore dataset.
 
 The dashboard transforms raw sales data into meaningful **KPIs, visualizations, and business insights**, allowing users to quickly understand overall performance and identify profitable customers, products, categories, sub-categories, and cities.
 
-
+---
 🎯 Project Objectives
-                                     The main objectives of this project were to:
+ The main objectives of this project were to:
 
   * Analyze **Total Sales** and overall revenue performance.
   * Analyze **Total Profit** to understand business profitability.
@@ -19,7 +20,7 @@ The dashboard transforms raw sales data into meaningful **KPIs, visualizations, 
   * Analyze profit performance by sub-category.
   * Analyze **Sum of Profit by City**.
   * Present the analysis through an interactive Power BI dashboard.
-
+---
 
 📊 Dashboard Analysis
 
@@ -52,7 +53,7 @@ The dashboard transforms raw sales data into meaningful **KPIs, visualizations, 
 
    🌎 Profit by City :- 
         Analyzed the **sum of profit by city** to identify cities contributing significantly to overall profitability and understand geographical differences in performance.
-
+---
 
 🔍 Key Insights
    The dashboard provides a comprehensive overview of the business by combining **sales, profit, quantity, returns, customer, product, category, sub-category, and city-level analysis**.
@@ -67,14 +68,14 @@ The dashboard transforms raw sales data into meaningful **KPIs, visualizations, 
 
    The inclusion of **Total Returns** allows business performance to be viewed alongside returned orders, providing a more complete understanding of sales activity.
 
-
+---
 🛠️ Tools & Technologies
   * **Power BI**
   * **Power Query**
   * **Microsoft Excel**
   * **Data Analysis**
   * **Data Visualization**
-
+---
 
 📈 Power BI Dashboard Features
 * KPI Cards
@@ -88,7 +89,7 @@ The dashboard transforms raw sales data into meaningful **KPIs, visualizations, 
 * Category & sub-category analysis
 * City-level profitability analysis
 * Interactive dashboard navigation
-
+---
 
 🧮 Key KPIs
 | KPI            | Description                     |
@@ -98,6 +99,7 @@ The dashboard transforms raw sales data into meaningful **KPIs, visualizations, 
 | Total Quantity | Total quantity of products sold |
 | Total Returns  | Total returned orders           |
 
+---
 Skills Demonstrated:- 
    Data Cleaning,
    Data Transformatio,
@@ -114,6 +116,11 @@ Skills Demonstrated:-
    Geographical Analysis,
    Data Visualization
    Data Storytelling.
+
+---
+   ## 👨‍💻 Author
+
+**Deepak Yadav**
 
 Conclusion :- 
 This project demonstrates how **Power BI can be used to transform raw Superstore data into an interactive business intelligence dashboard**. By analyzing sales, profit, quantity, returns, customers, products, categories, sub-categories, and cities, the dashboard provides a clear view of business performance and helps identify areas contributing to profitability.
